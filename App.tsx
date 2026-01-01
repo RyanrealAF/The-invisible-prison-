@@ -1,8 +1,8 @@
 
 import React, { useState, useEffect, useCallback } from 'react';
-import { Sidebar } from './components/Sidebar';
-import { Reader } from './components/Reader';
-import { CHAPTERS } from './constants';
+import { Sidebar } from './components/Sidebar.tsx';
+import { Reader } from './components/Reader.tsx';
+import { CHAPTERS } from './constants.tsx';
 import { 
   Menu, X, Type, Share2, Download 
 } from 'lucide-react';

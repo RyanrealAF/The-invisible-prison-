@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { CHAPTERS } from '../constants';
+import { CHAPTERS } from '../constants.tsx';
 import { Book, ChevronRight, Hash, ShieldAlert } from 'lucide-react';
 
 interface SidebarProps {

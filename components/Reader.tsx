@@ -1,6 +1,6 @@
 
 import React, { useMemo } from 'react';
-import { Chapter } from '../types';
+import { Chapter } from '../types.ts';
 import { AlertTriangle, Database, Info, Terminal } from 'lucide-react';
 
 interface ReaderProps {
